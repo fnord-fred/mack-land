@@ -1,2 +1,5 @@
+Fork of
+
 # hack-land
-welcome to hack land! hack land is a place of great power, money and production! communism can finally be a thing!!!!! (op hack nation)
+
+mod. reduced some numbers to make it slightly less buck-wild but still cheaty AF
